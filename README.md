@@ -1,3 +1,5 @@
+More about it [here](https://gabrielmolter.com/en/blog/pursuing-data-ownership).
+
 # Mailbox Analyzer
 
 A lightweight, browser-based tool for inspecting `.mbox` files, no matter how huge. Drop a file, parse it, and interactively explore which domains and individual senders contact you most often, all locally on your device. File is never saved or uploaded anywhere other than your own device.
