@@ -13,7 +13,7 @@ npm run dev
 
 The app runs at `http://localhost:5173`.
 
-## Usage Tips
+## Usage
 
 - Drag a `.mbox` file into the dropzone.
 - Configure filters: date range, subdomain grouping, excluded domains, etc. Filters persist via `localStorage`.
